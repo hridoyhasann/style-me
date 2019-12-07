@@ -1,0 +1,57 @@
+ul{
+    float: right;
+    list-style-type: none;
+    mar
+}
+ul li{
+    display: inline-block;
+
+}
+ul li a{
+    text-decoration: none;
+    color: blue;
+    padding: 5px 20px;
+    border: 2px solid grey;
+}
+
+ul li a:hover{
+    background-color: grey;
+}
+.logo img {
+    float: left;
+    width: 250px;
+    height: auto;
+}
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+h2{
+    color: darkblue;
+    font-size: 70px;
+    font: ;
+}
+.w3-opacity{
+    color: darkgreen;
+}
+.w3-justify{
+    color: black;
+    margin: auto;
+}
+.tittle{
+    color:darkblue;
+    font-size: 50px;
+}
+.w3-third{
+    color: rgb(223, 96, 46);
+    background-color:black;
+    margin: auto;
+}
+h1{
+    color: cornflowerblue;
+}
+.boxed{
+    float: left;
+    color: blue;
+    margin: auto;
+}
